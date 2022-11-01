@@ -3,7 +3,7 @@
 GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
 # Github GBA Game Website
-Https://github.io/Dillpicle23422
+github.io/dillpicle23422
 # EIC Version
 
 
